@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ScreenShotAndShare_Example' do
+  pod 'ScreenShotAndShare', :path => '../'
+
+  target 'ScreenShotAndShare_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
