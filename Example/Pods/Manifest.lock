@@ -1,0 +1,16 @@
+PODS:
+  - ScreenShotAndShare (0.1.0)
+
+DEPENDENCIES:
+  - ScreenShotAndShare (from `../`)
+
+EXTERNAL SOURCES:
+  ScreenShotAndShare:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ScreenShotAndShare: 06c28534419a77318748038d22290322e0933090
+
+PODFILE CHECKSUM: 4fd1d6339b7a11df275a3eedc92a0f1902b35426
+
+COCOAPODS: 1.5.0

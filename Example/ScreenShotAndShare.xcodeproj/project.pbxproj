@@ -42,11 +42,11 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6F920C1F08252CCC916B942A /* Pods-ScreenShotAndShare_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenShotAndShare_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenShotAndShare_Tests/Pods-ScreenShotAndShare_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		85C4A53F158C305F6A26937B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		9E61BA91B1F360027DBEEA55 /* ScreenShotAndShare.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ScreenShotAndShare.podspec; path = ../ScreenShotAndShare.podspec; sourceTree = "<group>"; };
+		85C4A53F158C305F6A26937B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9E61BA91B1F360027DBEEA55 /* ScreenShotAndShare.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ScreenShotAndShare.podspec; path = ../ScreenShotAndShare.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C400C652F2330FF3B6BBBFE8 /* Pods-ScreenShotAndShare_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenShotAndShare_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenShotAndShare_Tests/Pods-ScreenShotAndShare_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		DCB696B1A9A06CA28EC66507 /* Pods-ScreenShotAndShare_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenShotAndShare_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenShotAndShare_Example/Pods-ScreenShotAndShare_Example.release.xcconfig"; sourceTree = "<group>"; };
-		DD8F93BFFF983D2B801D5214 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		DD8F93BFFF983D2B801D5214 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

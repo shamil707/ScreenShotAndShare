@@ -1,0 +1,6 @@
+framework module ScreenShotAndShare {
+  umbrella header "ScreenShotAndShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
