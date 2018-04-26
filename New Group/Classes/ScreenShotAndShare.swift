@@ -11,7 +11,7 @@
 import UIKit
 
 @objc(ShareScreeen)
-class ShareScreeen: UIViewController {
+public class ShareScreeen: UIViewController {
     
     //Take Screen Shot and Share Across App Without CallBack
     @objc(shareScreenShot)

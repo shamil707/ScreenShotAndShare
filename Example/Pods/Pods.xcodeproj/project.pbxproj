@@ -51,7 +51,7 @@
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6720A7E79D56E7A3D56789ED00518586 /* Pods-ScreenShotAndShare_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScreenShotAndShare_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6975929D6E8D3FEAFFED2B99B673FBF5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6FDE18E5F3EFABC59FBDA16F55B14C29 /* ScreenShotAndShare.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ScreenShotAndShare.swift; path = ScreenShotAndShare/Classes/ScreenShotAndShare.swift; sourceTree = "<group>"; };
+		6FDE18E5F3EFABC59FBDA16F55B14C29 /* ScreenShotAndShare.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ScreenShotAndShare.swift; sourceTree = "<group>"; };
 		78771E49363EBB1DDEB9BD7DE6D0CB06 /* Pods-ScreenShotAndShare_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScreenShotAndShare_Example-frameworks.sh"; sourceTree = "<group>"; };
 		7BFAD0F492146C87E116601E52BA6DAD /* Pods-ScreenShotAndShare_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ScreenShotAndShare_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8424E1B9C3E64AC88D3EF8A11595EEC3 /* Pods-ScreenShotAndShare_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ScreenShotAndShare_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -137,12 +137,21 @@
 		3DEAA6BD5FB9F8390810F669B4A95B54 /* ScreenShotAndShare */ = {
 			isa = PBXGroup;
 			children = (
-				6FDE18E5F3EFABC59FBDA16F55B14C29 /* ScreenShotAndShare.swift */,
+				402F90042091EE5200186D81 /* Classes */,
 				DEEA33BE82136CF760E865E25C9EB178 /* Pod */,
 				359CBFE8FE2E3C9FAEF03E2937D4F5F0 /* Support Files */,
 			);
 			name = ScreenShotAndShare;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		402F90042091EE5200186D81 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6FDE18E5F3EFABC59FBDA16F55B14C29 /* ScreenShotAndShare.swift */,
+			);
+			name = Classes;
+			path = "New Group/Classes";
 			sourceTree = "<group>";
 		};
 		4C91719B754654C1E26B07564255A3D0 /* Pods-ScreenShotAndShare_Example */ = {
